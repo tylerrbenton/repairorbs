@@ -1,0 +1,13 @@
+configuration:
+  messages:
+    received: '&7%sender% &a=> &7%amount% orb(s).'
+    sent: '&7%amount% orb(s) &c=> &7%receiver%.'
+    max durability: '&cThe item you''re trying to repair is max durability.'
+    item repaired: '&aThe item was successfully repaired.'
+  orb:
+    name: '&6Repair Orb'
+    item id: 341
+    data value: 0
+    lore:
+    - '&eUse me to repair your items'
+    - '&eif they are damaged.'

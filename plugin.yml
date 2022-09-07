@@ -1,0 +1,8 @@
+name: RepairOrbs
+main: me.ray.repairorbs.RepairOrbs
+version: 1.0
+author: Tyler B
+commands:
+  repairorbs:
+    description: Get access to all RepairOrb's commands
+    permission: repairorbs.commands.give
